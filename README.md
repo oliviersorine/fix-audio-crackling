@@ -18,7 +18,7 @@ The windows scripting language
 
 > -Command
 
-Precises to powershell we when to execute the following command
+Precises to powershell I want to execute the following command
 
 > $Process = Get-Process audiodg;
 
